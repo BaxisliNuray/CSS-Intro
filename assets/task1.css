@@ -1,0 +1,16 @@
+*{
+    font-family:sans-serif;
+}
+span{
+    border: 1px solid black;
+}
+#secondheading{
+    background-color: yellow;
+}
+#secondspan{
+    background-color: red;
+}
+#thirdspan{
+    background-color:green;
+    color: lightgreen;
+}
